@@ -1,4 +1,5 @@
 # Company-home-page
+# config: JAVA WITH ANT --- WEB APPLICATION
 # users: 
 #    1)Peter Sokolowski, login"peter", password"1234"
 #    2)April Mcdonald, login"april", password"1234"
